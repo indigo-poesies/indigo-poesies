@@ -1,0 +1,101 @@
+# ----------------------------------------
+# Dashboard report
+# ----------------------------------------
+# Active users
+# Start date: 20210304
+# End date: 20210331
+Day,28-Day,7-Day,1-Day
+
+
+# Top conversion events
+# Start date: 20210304
+# End date: 20210331
+Day
+
+
+# Daily user engagement
+# Start date: 20210304
+# End date: 20210331
+Day,Average engagement time
+
+
+# Start date: 20210304
+# End date: 20210331
+Page path and screen class,User engagement,Screen views
+
+
+# Total revenue
+# Start date: 20210304
+# End date: 20210331
+Day,Total revenue
+
+
+# Crash-free users
+# Start date: 20210304
+# End date: 20210331
+Day,Total users
+
+
+# App version adoption
+# Start date: 20210331
+# End date: 20210401
+Latest release,Status,% of active users,Crash-free users
+
+
+# Acquisition
+# Start date: 20201202
+# End date: 20210331
+Source,first_open conversions,LTV
+
+
+# Retention cohorts
+# Start date: 20210214
+# End date: 20210327
+Date,Week 0,Week 1,Week 2,Week 3,Week 4,Week 5
+Feb 14 - Feb 20,0,0,0,0,0,0
+Feb 21 - Feb 27,0,0,0,0,0,-1
+Feb 28 - Mar 6,0,0,0,0,-1,-1
+Mar 7 - Mar 13,0,0,0,-1,-1,-1
+Mar 14 - Mar 20,0,0,-1,-1,-1,-1
+Mar 21 - Mar 27,0,-1,-1,-1,-1,-1
+
+# Audience
+# Start date: 20210304
+# End date: 20210331
+Country ID,Sessions,% Total
+
+
+# Start date: 20210304
+# End date: 20210331
+Device model,Users
+
+
+# Start date: 20210304
+# End date: 20210331
+OS with version,Users
+
+
+# Start date: 20210304
+# End date: 20210331
+Gender,Users
+
+
+# Start date: 20210304
+# End date: 20210331
+Category
+
+
+# Audience
+# Start date: 20210304
+# End date: 20210331
+Platform,Users
+
+
+# Start date: 20210304
+# End date: 20210331
+Platform,Users
+
+
+# Start date: 20210304
+# End date: 20210331
+Platform,Users,% Total,User engagement,Total revenue
